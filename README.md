@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fares-Nawi
+- 👋 Hi, I’m @Fares-Naoui "Nawi"
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on FAANG
