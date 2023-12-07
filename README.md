@@ -11,7 +11,7 @@ Welcome to my coding universe. I'm passionate about competitive programming and 
 I'm currently honing my skills in Spring Boot, exploring its intricacies, and building cool projects. 🛠️
 
 ## 🌐 Let's Connect!
-I'm always open to exciting collaborations and discussions. Connect with me on [LinkedIn](https://www.linkedin.com/in/fares-nawi-b4b9b31a4/) to start a conversation.
+I'm always open to exciting collaborations and discussions. Connect with me on [LinkedIn](www.linkedin.com/in/fares-naoui-b4b9b31a4) to start a conversation.
 
 ## 💡 Fun Fact
 I believe in the power of curiosity and continuous learning. There's always something new to discover in the vast realm of coding! 🚀
